@@ -227,4 +227,4 @@ def mouse_callback(window, xpos, ypos):
 
 
 if __name__ == "__main__":
-    main()
+    main(
